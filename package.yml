@@ -1,6 +1,6 @@
 name       : python-pako
 version    : 0.2.3
-release    : 1
+release    : 2
 source     :
     - https://files.pythonhosted.org/packages/96/91/bf16a2f64a6628dfbfd9218f0331fbf73655530608ddd2f8fb597fdb9458/pako-0.2.3.tar.gz : 6be55fd8c5a2a6f02974f37438c1c47a3d9e764ce81c9d0a1a8c9a1815a59778
 license    : Apache-2.0
